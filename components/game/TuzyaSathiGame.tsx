@@ -745,7 +745,7 @@ case 'popcorn':
       <div className="fixed inset-0 bg-gradient-to-b from-pink-300 to-pink-400 flex flex-col items-center justify-center p-8 text-center">
         <div className="text-6xl mb-6 animate-pulse">📱</div>
         <p className="font-pixel text-sm text-white mb-4" style={{ fontFamily: 'var(--font-pixel)' }}>
-          Phone landscape mode madhe phirva better experience sathi!
+          Phone landscape mode madhe thev better experience sathi!
         </p>
         <div className="text-4xl animate-spin" style={{ animationDuration: '2s' }}>🔄</div>
       </div>
@@ -792,7 +792,7 @@ case 'popcorn':
             className="text-3xl md:text-5xl text-pink-500 mb-2 animate-pulse text-center px-4"
             style={{ fontFamily: 'var(--font-pixel)', textShadow: '2px 2px 0 #FFD700' }}
           >
-            Tuzya Sathi
+            Bubbu Tuzya Sathi !!
           </h1>
           <p className="text-xl md:text-2xl text-pink-400 mb-8">💕</p>
           
@@ -905,7 +905,7 @@ case 'popcorn':
               className="text-pink-500 mb-6 text-sm"
               style={{ fontFamily: 'var(--font-nunito)' }}
             >
-              Ek minute... Kishor vaat pahatiye 🥺
+              Ek minute... Kishor vaat baghtoy !! 🥺
             </p>
             <div className="flex flex-col gap-3">
               <button
@@ -938,7 +938,7 @@ case 'popcorn':
             className="text-pink-600 text-xl md:text-2xl mb-6 text-center"
             style={{ fontFamily: 'var(--font-nunito)' }}
           >
-            Bubbu... uth! Kishor vaat pahatiye! 💕
+            Bubbu... uth! Kishor vaat baghtoy! 💕
           </p>
           <p className="text-pink-500 mb-8">Score: {gameStateRef.current.player.score}</p>
           <button
@@ -966,7 +966,7 @@ case 'popcorn':
               className="w-full py-4 bg-pink-400 hover:bg-pink-500 active:bg-pink-600 text-white rounded-lg text-lg transition-all touch-manipulation"
               style={{ fontFamily: 'var(--font-pixel)', fontSize: '10px' }}
             >
-              Pudhe Chala →
+              Pudhe Chal →
             </button>
           </div>
         </div>

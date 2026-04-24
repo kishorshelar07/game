@@ -467,8 +467,8 @@ const level8: LevelData = {
 export const LEVELS: LevelData[] = [level1, level2, level3, level4, level5, level6, level7, level8];
 
 export const ENDING_TEXT = `Bubbu...
-Tu mazya aayushyatil sabse sundar goshta aahes.
+Tu mazya aayushyatil saglyat sundar goshta aahes.
 Tuzya hasnyat... tuzya bad bad madhe...
-Tuzya icecream khanyat... mi ahe.
-Hamesha aani sarv kahi.
+Tuzya sobat mi ahe always.
+I Love You So Much Bubbu...
 – Tera Kishor ❤️`;

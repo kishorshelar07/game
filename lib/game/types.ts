@@ -115,7 +115,7 @@ export const LOVE_BUBBLES = [
   { text: "Tuzya bad bad sathi 💬", emoji: "💬" },
   { text: "Tuzya icecream sathi 🍦", emoji: "🍦" },
   { text: "Tuzya hasnyasathi 😊", emoji: "😊" },
-  { text: "Tuzya ragyasathi pn 😤💕", emoji: "😤" },
+  { text: "Tuzya ragavnya sathi pn 😤💕", emoji: "😤" },
   { text: "Fakt tuzya sathi ❤️", emoji: "❤️" },
 ];
 
