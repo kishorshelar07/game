@@ -62,8 +62,8 @@ const createCollectible = (
 // Level 1: Suru Zali Goshta (Park)
 const level1: LevelData = {
   id: 1,
-  name: 'Suru Zali Goshta',
-  nameMarathi: 'सुरु झाली गोष्ट',
+  name: 'Ithun Amachi Suru Zali Goshta',
+  nameMarathi: 'इथून आमची सुरु झाली गोष्ट',
   emoji: '🌸',
   backgroundColor: '#87CEEB',
   backgroundGradient: ['#87CEEB', '#98FB98', '#90EE90'],
@@ -107,15 +107,15 @@ const level1: LevelData = {
     createCollectible(2000, 100, 'heart'),
   ],
   goalX: 2300,
-  cutsceneText: 'Bubbu ne Kishor la pehli wela pahila... ani tichya mnat kahi tari zala 🌸',
+  cutsceneText: 'Bubbu ne Kishor la pehilya wela pahila... ani tichya mnat kahi tari suru zala 🌸',
   particleType: 'petal',
 };
 
 // Level 2: Icecream Wali Galli
 const level2: LevelData = {
   id: 2,
-  name: 'Icecream Wali Galli',
-  nameMarathi: 'आइसक्रीम वाली गल्ली',
+  name: 'Icecream Sobat Kiss pn',
+  nameMarathi: 'आइसक्रीम सोबत किस पण ',
   emoji: '🍦',
   backgroundColor: '#FFE4E1',
   backgroundGradient: ['#FFB6C1', '#FFE4E1', '#FFF0F5'],
@@ -159,7 +159,7 @@ const level2: LevelData = {
     createCollectible(2050, 130, 'heart'),
   ],
   goalX: 2300,
-  cutsceneText: 'Ice cream khata khata... doghi ek dusryacha houn gele 🍦💕',
+  cutsceneText: 'Ice cream khata khata... doghi ek dusryacha houn gele,ani mi kiss keli kishor la achanak🍦💕',
   particleType: 'heart',
   specialMechanic: 'icecream',
 };
@@ -167,8 +167,8 @@ const level2: LevelData = {
 // Level 3: Pawsachi Sanaj (Rainy)
 const level3: LevelData = {
   id: 3,
-  name: 'Pawsachi Sanaj',
-  nameMarathi: 'पावसाची संध्या',
+  name: 'Pawsa madhe doghe bhijalo',
+  nameMarathi: 'पावसामध्ये दोघे भिजलो ',
   emoji: '🌧️',
   backgroundColor: '#4A5568',
   backgroundGradient: ['#2D3748', '#4A5568', '#718096'],
@@ -212,7 +212,7 @@ const level3: LevelData = {
     createCollectible(1900, 120, 'sorry-heart'),
   ],
   goalX: 2300,
-  cutsceneText: 'Ragavna aala... pan gela pn laukar. Karan he prem ahe 🌈',
+  cutsceneText: 'pavsat bhijun gharat yeun parat anghol keli sobat amhi 🌈',
   particleType: 'raindrop',
   specialMechanic: 'rain',
 };
@@ -220,8 +220,8 @@ const level3: LevelData = {
 // Level 4: Tya Doni (Starry Night Photos)
 const level4: LevelData = {
   id: 4,
-  name: 'Tya Doni',
-  nameMarathi: 'त्या दोघी',
+  name: 'Fakt mi ani bubbu',
+  nameMarathi: 'फक्त मी आणि बुब्बू ',
   emoji: '📸',
   backgroundColor: '#1a1a2e',
   backgroundGradient: ['#16213e', '#1a1a2e', '#0f0f23'],
@@ -260,7 +260,7 @@ const level4: LevelData = {
     createCollectible(1950, 160, 'heart'),
   ],
   goalX: 2300,
-  cutsceneText: 'Ek ek khaan... doghi milun sampurn ahet 📸💕',
+  cutsceneText: 'apan doghe best ahot sobat 📸💕',
   particleType: 'star',
   specialMechanic: 'photos',
 };
@@ -319,8 +319,8 @@ const level5: LevelData = {
 // Level 6: Mall Adventure
 const level6: LevelData = {
   id: 6,
-  name: 'Mall Madhe',
-  nameMarathi: 'मॉल मध्ये',
+  name: 'Mall Madhe Romance',
+  nameMarathi: 'मॉल मध्ये रोमांस  ',
   emoji: '🛍️',
   backgroundColor: '#FFE4E1',
   backgroundGradient: ['#FFC0CB', '#FFE4E1', '#FFFACD'],
