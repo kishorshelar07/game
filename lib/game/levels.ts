@@ -107,7 +107,7 @@ const level1: LevelData = {
     createCollectible(2000, 100, 'heart'),
   ],
   goalX: 2300,
-  cutsceneText: 'Bubbu ne Kishor la pehilya wela pahila... ani tichya mnat kahi tari suru zala 🌸',
+  cutsceneText: 'Bubbu first step complete keli ,ata tula 10 Kisses deil.. 🌸',
   particleType: 'petal',
 };
 
@@ -159,7 +159,7 @@ const level2: LevelData = {
     createCollectible(2050, 130, 'heart'),
   ],
   goalX: 2300,
-  cutsceneText: 'Ice cream khata khata... doghi ek dusryacha houn gele,ani mi kiss keli kishor la achanak🍦💕',
+  cutsceneText: 'Ice cream khata khata mi kiss keli kishor la achanak🍦💕',
   particleType: 'heart',
   specialMechanic: 'icecream',
 };
