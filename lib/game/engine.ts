@@ -535,7 +535,7 @@ export function getCompletedLevels(): number[] {
   return [];
 }
 
-// Save completed level
+// Save complete level
 export function saveCompletedLevel(level: number): void {
   if (typeof window !== 'undefined') {
     const completed = getCompletedLevels();
