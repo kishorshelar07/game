@@ -426,7 +426,7 @@ export function createParticle(
   };
 }
 
-// Update particles
+// Updated particles
 export function updateParticles(particles: Particle[]): Particle[] {
   return particles
     .map(particle => ({
